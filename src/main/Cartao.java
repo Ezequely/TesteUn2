@@ -4,7 +4,7 @@ public class Cartao {
 	String tipo; //inteira, estudante, livre
 	int saldo = 0;
 	
-	public void Cartão(String t){
+	public void Cartao(String t){
 		this.tipo = t;
 		this.saldo = 0;
 	}
